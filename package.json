@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/ramyaghanta.lwc-kybxdzs7",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve OWow49jyCg08lhr1YdbI --open"
+  }
+}
